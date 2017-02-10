@@ -1,0 +1,21 @@
+
+
+input.wpcf7-form-control.wpcf7-date, input.wpcf7-form-control.wpcf7-number, input.wpcf7-form-control.wpcf7-quiz, input.wpcf7-form-control.wpcf7-text, select.wpcf7-form-control.wpcf7-select, textarea.wpcf7-form-control.wpcf7-textarea {
+    display: block;
+    margin: 5px 0 0;
+    padding: 15px;
+    border: solid 1px #b9b9b9;
+    border-radius: 2px;
+    outline: 0;
+    resize: none;
+    font-size: 13px;
+    line-height: 17px;
+    background-color: #fff;
+    color: #818181;
+    font-family: Raleway;
+    font-weight: 400;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+}

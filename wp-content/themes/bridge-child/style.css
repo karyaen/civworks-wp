@@ -1,0 +1,16 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+
+section.parallax_section_holder.qode_full_screen_height_parallax.qode_vertical_middle_align {
+    width: 100%;
+    background-size: cover;
+}
